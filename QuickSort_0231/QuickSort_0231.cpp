@@ -65,7 +65,8 @@ void q_short(int low, int high)
 			j--;
 			cmp_count++;
 		}
-		cmp_co
+		cmp_count++;
+		if (i < j) 
 
 	{
 
